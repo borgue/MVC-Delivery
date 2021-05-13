@@ -1,0 +1,11 @@
+{
+    "name": "guilherme/delivery",
+    "description": "Sistema de delivery",
+    "autoload":{
+        "psr-4":{
+            "app\\":"app/",
+            "config\\":"config/"
+        }
+    },
+    "require":{}
+}
